@@ -37,6 +37,7 @@ ul {
   margin-top: 0;
   margin-bottom: 0;
   color: white;
+  fill: white;
 }
 
 li {
@@ -50,6 +51,8 @@ li {
   animation-name: slideIn;
   animation-function: ease-in-out;
   animation-fill-mode: forwards;
+  color: white;
+  fill: white;
 }
 
 @keyframes slideIn {
