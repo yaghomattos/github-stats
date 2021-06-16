@@ -75,6 +75,7 @@ div.ellipsis {
   overflow: hidden;
   border-radius: 6px;
   margin-bottom: 1em;
+  outline: 1px solid #ffffff00;
 }
 
 .progress-item {
